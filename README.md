@@ -4,7 +4,7 @@
 
 ### Illuminating Lives with Solar Energy
 
-# TN Electric Co. Ltd.
+# TN Electric Co. Ltd. 
 
 ### Built by: **[Anthony Khong](https://www.linkedin.com/in/anthonykhong956/)**
 
