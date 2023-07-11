@@ -11,7 +11,7 @@ export default function Auth({ setUser }) {
         <div className="flex items-center justify-around">
           <img className="h-10" src="" />
           &nbsp; &nbsp;
-          <h1 className="text-5xl font-bold text-[#e2be1d]">
+          <h1 className="text-5xl font-bold text-[#d4af37]">
             TN Electric Co. Ltd.
           </h1>
         </div>
